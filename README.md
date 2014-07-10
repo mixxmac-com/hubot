@@ -16,3 +16,5 @@ are building your own bot. But if you do, check out [CONTRIBUTING.md](CONTRIBUTI
 
 Copyright (c) 2011-2013 GitHub, Inc. See the LICENSE file for license rights and
 limitations (MIT).
+
+[ ![Codeship Status for mixxmac-com/hubot](https://www.codeship.io/projects/ede50190-e9f6-0131-5744-6281572deffc/status)](https://www.codeship.io/projects/26272)
